@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using MySql.EntityFrameworkCore.Extensions;
 using _24hr_Code_Challenge.Models;
 
 namespace _24hr_Code_Challenge.Data
