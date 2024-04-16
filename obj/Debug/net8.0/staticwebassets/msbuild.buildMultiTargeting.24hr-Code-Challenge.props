@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/24hr-Code-Challenge.props" />
+</Project>

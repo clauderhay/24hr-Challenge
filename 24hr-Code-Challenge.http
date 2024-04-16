@@ -1,0 +1,6 @@
+@_24hr_Code_Challenge_HostAddress = http://localhost:5049
+
+GET {{_24hr_Code_Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
